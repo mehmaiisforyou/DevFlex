@@ -5,8 +5,6 @@ DevFlex License v1.0 – A permissive, developer-friendly open-source license fo
 
 # ![License Badge](https://img.shields.io/badge/License-DevFlex-brightgreen) DevFlex License v1.0
 
-![Header Image](https://raw.githubusercontent.com/username/repo/main/assets/header-image.png)  
-
 Welcome to **DevFlex License v1.0**, a developer-friendly, permissive, and detailed open-source license designed for modern software projects.  
 This license enables you to **freely use, modify, distribute, and commercialize your projects** while protecting the rights of original authors and providing clarity on patents, derivative works, and networked deployments.
 
